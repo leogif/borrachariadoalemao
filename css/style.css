@@ -62,11 +62,11 @@
 	font-size: 50px;
 	text-align: center;
 	display: block;
-	color: #00e0d0;
+	color: #000;
 }
 
 .sobre {
-	background: url(../img/s/trocando-pneu.jpg) no-repeat fixed; padding: 40px 0;
+	background: url(../img/bg/pneu3.jpg) no-repeat fixed; padding: 40px 0;
 	margin-top: 60px;
 }
 
